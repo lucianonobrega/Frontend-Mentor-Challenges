@@ -1,0 +1,27 @@
+@media screen and (max-width: 960px) {
+    .containerPai {
+        width: 46%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+  .containerPai {
+    width: 90%;
+  }
+
+  .jessicaInfo h1 {
+    font-size: 2.2rem;
+  }
+
+  .jessicaInfo h2 {
+    font-size: 1.3rem;
+  }
+
+  .containerPai p {
+    font-size: 1.2rem;
+  }
+
+  .containerButtons a {
+    font-size: 1.3rem;
+  }
+}
